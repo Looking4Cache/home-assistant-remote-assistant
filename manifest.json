@@ -1,0 +1,13 @@
+{
+  "domain": "remote_assistant",
+  "name": "Remote Assistant",
+  "version": "1.0.0",
+  "documentation": "https://www.remote-red.com/en/help-remote-assistant",
+  "requirements": ["aiohttp", "qrcode[pil]"],
+  "config_flow": true,
+  "single_config_entry": true,
+  "integration_type": "service",
+  "dependencies": [],
+  "codeowners": ["@Looking4Cache"],
+  "license": "MIT"
+}
