@@ -10,5 +10,5 @@
   "integration_type": "service",
   "dependencies": [],
   "codeowners": ["@Looking4Cache"],
-  "license": "MIT"
+  "iot_class": "cloud_push"
 }
