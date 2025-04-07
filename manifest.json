@@ -3,6 +3,7 @@
   "name": "Remote Assistant",
   "version": "1.0.0",
   "documentation": "https://www.remote-red.com/en/help-remote-assistant",
+  "issue_tracker": "https://github.com/Looking4Cache/home-assistant-remote-assistant/issues",
   "requirements": ["aiohttp", "qrcode[pil]"],
   "config_flow": true,
   "single_config_entry": true,
