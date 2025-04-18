@@ -4,7 +4,7 @@
   "codeowners": ["@Looking4Cache"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://www.remote-red.com/en/help-remote-assistant",
+  "documentation": "https://www.remote-red.com/en/remote-assistant",
   "integration_type": "service",
   "iot_class": "cloud_push",
   "issue_tracker": "https://github.com/Looking4Cache/home-assistant-remote-assistant/issues",
