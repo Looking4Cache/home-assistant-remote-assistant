@@ -10,5 +10,5 @@
   "issue_tracker": "https://github.com/Looking4Cache/home-assistant-remote-assistant/issues",
   "requirements": ["aiohttp", "qrcode[pil]"],
   "single_config_entry": true,
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
