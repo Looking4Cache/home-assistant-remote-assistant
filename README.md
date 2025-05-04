@@ -6,6 +6,10 @@ Remote Assistant is a paid service from Remote-RED, an app that has already help
 
 It's a lean, simple and affordable solution if you just want to access Home Assistant from the internet. It doesn't have the functionality of the Home Assistant app or Home Assistant Cloud and doesn't aim to.
 
+## Costs
+
+Remote Assistant is financed via InApp purchases. This is only $10 per year, the exact price varies from country to country due to VAT and similar charges. The InApp purchase is only required after some time and then begins with a free trial week.
+
 ## Usage
 
 Two components are required to use Remote Assistant: A Custom Component within Home Assistant that opens the SSH tunnel to the Remote-RED servers and provides you with the access data. The second component required is the Android or iOS app. This accesses the Remote-RED servers via the Internet, which in turn redirect you to your Home Assistant dashboard at home.
