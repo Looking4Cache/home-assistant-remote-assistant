@@ -20,11 +20,13 @@ There are sveral ways how to install the Custom Component. Choose the best match
 
 ### Install via HACS
 
-Installing via HACS is ideal if you already have HACS installed. At the moment Remote Assistant is not in the default reprository, but you can use this button to add this reprository to HACS:
+Installing via HACS is ideal if you already have HACS installed.
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=looking4cache&repository=home-assistant-remote-assistant&category=integration)
+[![Install via HACS on your Home Assistant instance.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=looking4cache&repository=home-assistant-remote-assistant&category=integration)
 
-After adding the repository you can search for 'Remote Assistant' and install it throgh HACS. If you have not yet installed HACS, you can follow these instructions: [HACS User Documentation](https://hacs.xyz/docs/use/) or use a alternativ way to install Remote Assistant.
+Or search HACS integrations for "Remote Assistant".
+
+If you have not yet installed HACS, you can follow these instructions: [HACS User Documentation](https://hacs.xyz/docs/use/) or use a alternativ way to install Remote Assistant.
 
 ### Install via Installer Addon (for Home Assistant OS/Supervised)
 
